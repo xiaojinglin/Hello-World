@@ -1,2 +1,3 @@
 # Hello-World
-First repository I create on GitHub
+Hi everyone
+This is The first time to use GitHub, still trying to figure out how to use it. 
